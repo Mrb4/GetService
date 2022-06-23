@@ -1,0 +1,7 @@
+game.GetService("Lighting").TimeOfDay = "12:00"
+game.GetService("Players).Health = "200"
+game.GetService("Chat").Active = "False"
+game.GetService("ServerStorage).ScriptNameHere = "Active"
+It's Easy As That If You Need More Info With This Type Of Code (LUA) Contact Me On Koo.otenaiji@gmail.com
+
+Subsribe To My YT Btw. (Mrb4)
